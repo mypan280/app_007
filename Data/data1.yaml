@@ -1,0 +1,49 @@
+#注释符号
+#  name: "lilin"
+#  Name: "lilin"
+#对象第一种写法
+#info1: {"name":"lilin","age":"18"}
+#对象 -第二种写法
+#info2：
+#name: "lilin"
+#age: "18"
+#python 列表
+#data1: ["name","男]
+#json格式{"info":[{"name","张三”}，{"name":"李四"}}
+#info:
+#  - name: "张三”
+#  - name: "李四”
+#----字符串----
+#name:"lili"
+#Name:“lili"
+#name_str: lili #自动转化数据类型
+#----整数 浮点数----
+#int_value:122
+#float_value:12.00001
+#---布尔值----
+#yaml布尔值
+#bool01：true
+#bool02：false
+#python 布尔值
+#bool03: True
+#bool04: False
+#yaml
+#value:
+#没有赋值
+#支持 js shell java
+#value5:null
+#value6:null
+#python 类型 --不支持 f返回字符串
+#value2:None
+#value3:none
+# ----日期类型----
+#返回datetime.datetime时间类型
+#date1:2020-11-11 11:11:11
+#date2:2020-11-11
+#date3: 11:11:11
+#不会返回日期返回字符串,必须前面补零
+date4:2020-11-11 1:1:1
+date5:2020-01-01
+
+
+#

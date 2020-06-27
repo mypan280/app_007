@@ -1,0 +1,8 @@
+info: &data #当前节点必须有子节点，锚点等价于当前子节点
+  name: "lilin"
+  phone: "13445567809"
+
+address:
+  <<: *data #引用锚点的所有内容
+  detail: "黑马程序员"
+
